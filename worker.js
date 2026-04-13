@@ -1,7 +1,7 @@
 // Cloudflare Worker — proxy vers Anthropic API
 // Déployez ce fichier sur workers.cloudflare.com
 
-const ANTHROPIC_KEY = 'REMPLACER_PAR_VOTRE_CLE_SK_ANT';
+const ANTHROPIC_KEY = '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';
 
 const PROMPT = `Tu es expert juridique contrats d'influence France. Intérêt prioritaire : AGENCE.
 Standards BOLD/TDP : paiement max 30j + pénalités, pas droits moraux, licence limitée + interdiction IA, exclusivité rémunérée + concurrents listés, responsabilité Agence plafonnée + dommages indirects exclus, résiliation après mise en demeure 15j, confidentialité mutuelle 3ans, droit français + Paris, RGPD, force majeure Art.1218.
